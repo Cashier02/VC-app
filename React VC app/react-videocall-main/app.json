@@ -1,0 +1,6 @@
+{
+  "name": " Video Call",
+  "description": "React Video Call App powered by WebRTC, React and Socket.io",
+  "repository": "https://github.com/nguymin4/react-videocall",
+  "keywords": ["react", "express", "video call"]
+}
